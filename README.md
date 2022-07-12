@@ -17,18 +17,22 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)<br>
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-1ECD6C?style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
- <h3> Techs </h3>
-<h4>💾 Used at the main 💾</h4>
+<h3>💾 Techs 💾</h3>
+<h5>📀 Mainly in use 📀</h5>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
 
-<h4>📚 Used at least once 📚</h4>
+<h5>💿 Used more than once 💿</h5>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)<br>
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)<br>
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)<br>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valur628&langs_count=8&hide=c%2B%2B)](https://github.com/valur628/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valur628&langs_count=8&hide=c%2B%2B,CMake,ShaderLab,HLSL,GLSL,Objective%2DC)](https://github.com/valur628/github-readme-stats)
 
 </div>
