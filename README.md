@@ -17,11 +17,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)<br>
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-1ECD6C?style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
-<h3>💾 Main-Techs 💾</h3>
+ <h3> Techs </h3>
+<h4>💾 Used at the main 💾</h4>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
 
-<h3>📚 Sub-Techs 📚</h3>
+<h4>📚 Used at least once 📚</h4>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)<br>
