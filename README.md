@@ -37,10 +37,10 @@
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/valur628)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)](https://github.com/valur628)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)](https://github.com/valur628)
-<br>
-<br>
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valur628&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=valur628&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valur628&theme=dark) 
+<h3>📌 Statistics 📌</h3>
+ 
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valur628&theme=dark)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=valur628&theme=dark)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valur628&theme=dark)
 </div>
