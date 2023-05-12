@@ -40,7 +40,7 @@
 <br>
 <br>
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valur628&theme=2077) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=valur628&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valur628&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valur628&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=valur628&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valur628&theme=dark) 
 </div>
