@@ -5,6 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvalur628&count_bg=%230B0B0B&title_bg=%230B0B0B&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://youtu.be/dQw4w9WgXcQ)
 <a href="mailto:valurauta628@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://valurauta.notion.site/valurauta/new-FileReader-port-19978d4f385e473bb383c796fce5f372"><img src="https://img.shields.io/badge/My%20Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 </div>
 <div align="center">
