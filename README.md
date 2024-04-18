@@ -11,8 +11,6 @@
 </div>
 <div align="center">
 
-<h3>🛠 Tools 🛠</h3>
-
 <h3>💾 Techs 💾</h3>
 <h5>📀 Mainly in use 📀</h5>
 
