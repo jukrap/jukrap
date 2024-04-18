@@ -13,13 +13,6 @@
 
 <h3>🛠 Tools 🛠</h3>
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)<br>
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)<br>](https://code.visualstudio.com/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-1ECD6C?style=for-the-badge&logo=Android%20Studio&logoColor=white)](https://developer.android.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
 <h3>💾 Techs 💾</h3>
 <h5>📀 Mainly in use 📀</h5>
 
