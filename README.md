@@ -35,7 +35,6 @@
 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/valur628)
 [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://github.com/valur628)
-[![Github Action](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white)](https://github.com/valur628)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/valur628)
 
 **Used more than once**
