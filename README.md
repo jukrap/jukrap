@@ -5,8 +5,9 @@
 
 ### 👋 Hi there, I'm Ju-cheol Park
 
-<samp> I'm an aspiring mobile app and frontend developer with a keen interest in creating user-friendly applications.<br><br>I have hands-on experience in Android development using Java and React Native, and I enjoy building web pages with HTML, CSS, JavaScript, and React. I'm always eager to learn and grow as a developer. I'm excited about the opportunity to collaborate with teams and contribute to meaningful projects.<br><br>If you'd like to discuss potential collaborations or have any questions, feel free to reach out. I'm open to new opportunities and challenges! </samp>
+<samp> I'm an aspiring mobile app & frontend developer with a keen interest in creating user-friendly applications.<br><br>I have hands-on experience in Android development using Java and React Native, and I enjoy building web pages with HTML, CSS, JavaScript, and React. I'm always eager to learn and grow as a developer. I'm excited about the opportunity to collaborate with teams and contribute to meaningful projects.<br><br>If you'd like to discuss potential collaborations or have any questions, feel free to reach out. I'm open to new opportunities and challenges! </samp>
 
+<br>
 
 ### 🛠️ Stacks
 ---
@@ -49,4 +50,10 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/valur628)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://github.com/valur628)
 
+<br>
+
+### 🚀 Statistics
+---
+
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valur628&theme=react)
 
