@@ -5,7 +5,7 @@
 
 ### 👋 Hi there, I'm Ju-cheol Park
 
-<samp> I'm an aspiring mobile app & frontend developer with a keen interest in creating user-friendly applications.<br><br>I have hands-on experience in Android development using Java and React Native, and I enjoy building web pages with HTML, CSS, JavaScript, and React. I'm always eager to learn and grow as a developer. I'm excited about the opportunity to collaborate with teams and contribute to meaningful projects.<br><br>If you'd like to discuss potential collaborations or have any questions, feel free to reach out. I'm open to new opportunities and challenges! </samp>
+<samp> I'm a mobile app & frontend developer with a keen interest in creating user-friendly applications.<br><br>I have hands-on experience in Android development using Java and React Native, and I enjoy building web pages with HTML, CSS, JavaScript, and React. I'm always eager to learn and grow as a developer. I'm excited about the opportunity to collaborate with teams and contribute to meaningful projects.<br><br>If you'd like to discuss potential collaborations or have any questions, feel free to reach out. I'm open to new opportunities and challenges! </samp>
 
 <br>
 
