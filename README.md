@@ -25,6 +25,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/jukrap)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)](https://github.com/jukrap)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://github.com/jukrap)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)](https://github.com/jukrap)
 
 **Backend**
 
@@ -35,7 +36,7 @@
 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/jukrap)
 [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://github.com/jukrap)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/jukrap)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)](https://github.com/jukrap)
 
 **Used more than once**
 
@@ -47,7 +48,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)](https://github.com/jukrap)
 [![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?style=flat-square&logo=Scikit%20learn&logoColor=white)](https://github.com/jukrap)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/jukrap)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://github.com/jukrap)
 
 <br>
 
