@@ -117,7 +117,7 @@
 ### ./telemetry
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jukrap&theme=swift" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jukrap&theme=graywhite" alt="profile details" />
 </p>
 
 <p align="center">
