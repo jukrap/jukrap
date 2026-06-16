@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjukrap&label=Visitors&icon=github&color=%23000000&message=&style=flat-square&tz=UTC" alt="Visitors" /></a>
-  <a href="https://jukrap.vercel.app/"><img src="https://img.shields.io/badge/🌐%20jukrap.vercel.app-000000?style=flat-square" alt="Website" /></a>
+  <a href="https://jukrap.vercel.app/"><img src="https://img.shields.io/badge/🌐%20jukrap.vercel.app-000000?style=flat-square" alt="Website" /></a><br>
+  <a href="https://jukrap.vercel.app/files/Resume%20(Ju-cheol%20Park).pdf"><img src="https://img.shields.io/badge/📃%20Resume-000000?style=flat-square" alt="Resume" /></a>
   <a href="https://jukrap.vercel.app/files/Ju-cheol-Park_Frontend.pdf"><img src="https://img.shields.io/badge/💼%20Portfolio-000000?style=flat-square" alt="Portfolio" /></a>
 </p>
 
