@@ -123,8 +123,7 @@
 
 <p>
   <a href="https://github.com/jukrap/codex-renown">
-  <img width="49%" src="https://raw.githubusercontent.com/jukrap/codex-renown/main/cards/achievements.svg" alt="Codex Renown rank achievements">
-  <img width="49%" src="https://raw.githubusercontent.com/jukrap/codex-renown/main/cards/records.svg" alt="Codex Renown records">
+    <img width="100%" src="https://raw.githubusercontent.com/jukrap/codex-renown/main/cards/overview.svg" alt="Codex Renown overview">
   </a>
 </p>
 
