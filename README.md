@@ -121,6 +121,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jukrap&theme=graywhite" alt="profile details" />
 </p>
 
+<p>
+  <a href="https://github.com/jukrap/codex-renown">
+  <img width="49%" src="https://raw.githubusercontent.com/jukrap/codex-renown/main/cards/achievements.svg" alt="Codex Renown rank achievements">
+  <img width="49%" src="https://raw.githubusercontent.com/jukrap/codex-renown/main/cards/records.svg" alt="Codex Renown records">
+  </a>
+</p>
+
 <p align="center">
   <samp>
     Built with caffeine, undefined behavior, and selective amnesia.
